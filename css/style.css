@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+nav {
+    background-color: purple;
+    padding: 10px;
+}
+ul {
+    list-style: none;
+    padding: 10px;
+    margin: 0px;
+}
+li {
+    display: inline;
+    margin-right: 25px;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
